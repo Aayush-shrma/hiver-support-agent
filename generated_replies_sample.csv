@@ -1,0 +1,319 @@
+tweet_id_customer,text_customer,tweet_id_reply,text_reply,text_customer_clean,text_reply_clean,predicted_intent,true_intent,reply_quality,decision,notes,generated_reply
+1336269,"bravo @115858 - after completing my order with store pickup, tells me no stores available but won't let me ship it. Try again, get this: https://t.co/YglVYhTkxP",1336267,"@431719 Thank you for reaching out to us. We'd like to get you in touch with our Sales Support, see this link:  https://t.co/8yjRd1Xo0i","bravo  - after completing my order with store pickup, tells me no stores available but won't let me ship it. Try again, get this:","Thank you for reaching out to us. We'd like to get you in touch with our Sales Support, see this link:",order_purchase_billing,order_purchase_billing,good,escalate,,"Hi there!  
+Thanks for letting us know about the hiccup. Could you share your order number and the store you selected for pickup? I’ll look into why the pickup option is showing “no stores available” and see if we can switch the order to shipping for you.  
+
+In the meantime, try clearing the Apple Store app cache or re‑loading the page on a different browser—sometimes that clears up the issue.  
+
+If the problem persists, I’ll forward the details to our Sales Support team so they can help you get the order shipped right away.  
+
+Looking forward to your reply!"
+2129202,Why is my iPhone 8 slow &amp; lagging @AppleSupport,2129201,@626780 Let's take a look together. Which iOS version do you currently have installed on your 8? Let us know more in DM. https://t.co/GDrqU22YpT,Why is my iPhone 8 slow &amp; lagging,Let's take a look together. Which iOS version do you currently have installed on your 8? Let us know more in DM.,bug_performance_issue,bug_performance_issue,partial,escalate,,Thanks for reaching out to us for support. We’d love to help you get your iPhone 8 running smoothly. Could you let us know which iOS version is currently installed on your device? That information will help us determine the best steps to resolve the lagging issue.
+566751,@AppleSupport my phone keeps crashing getting me to put my pin code in numerous times this has just started,566750,@252879 We know the importance of getting that fixed quickly! You'll want to get your device updated to correct that issue. Here's the steps: https://t.co/osZOKKTalm,my phone keeps crashing getting me to put my pin code in numerous times this has just started,We know the importance of getting that fixed quickly! You'll want to get your device updated to correct that issue. Here's the steps:,bug_performance_issue,bug_performance_issue,good,auto,,"Hi there!  
+I’m sorry you’re having trouble with your iPhone. Let’s get this sorted out together.
+
+**First, could you let me know:**
+
+- Which iPhone model you’re using (e.g., iPhone 13, iPhone 12 Pro, etc.)  
+- The iOS version currently installed (you can find this in *Settings > General > About* under “Software Version”)  
+- Whether the crash happens after opening a particular app or just when you’re on the lock screen / home screen  
+- If you’ve recently installed any new apps or updates before the problem started
+
+**In the meantime, here are a few quick steps you can try:**
+
+1. **Force‑restart your iPhone**  
+   - iPhone 8 or later: press‑and‑release the Volume Up button, press‑and‑release the Volume Down button, then press‑and‑hold the Side button until the Apple logo appears.  
+   - iPhone 7/7 Plus: press‑and‑hold the Volume Down and Side buttons until the Apple logo appears.  
+   - iPhone 6s or earlier: press‑and‑hold the Home and Top (or Side) buttons until the Apple logo appears.
+
+2. **Check for a software update** – *Settings > General > Software Update*. If an update is available, install it; many bugs are fixed in newer releases.
+
+3. **Reset all settings** – *Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings*. This won’t delete your data, but it will reset Wi‑Fi passwords, wallpaper, and other preferences.
+
+4. **Safe mode test** – If you suspect a third‑party app is causing the crash, try uninstalling recently added apps one by one and see if the issue persists.
+
+If the problem continues after trying these steps, let me know the details above and we can explore a more specific fix or arrange a repair if needed.
+
+Thanks for reaching out, and I’m here to help!"
+1626170,"@AppleSupport It’s been fixed, thanks.",1626172,"@497961 We're glad to know it was resolved. If you have any concerns or questions in the future, please feel free to reach out us.","It’s been fixed, thanks.","We're glad to know it was resolved. If you have any concerns or questions in the future, please feel free to reach out us.",general_complaint,general_complaint,good,escalate,,"You’re welcome! If anything else comes up, just let us know. Have a great day!"
+1657821,@AppleSupport are you all releasing an update or something to address this glitch? https://t.co/NRr1YALCTh,1657819,@505829 Here’s what you can do to work around the issue until it’s fixed in a future software update: https://t.co/xXaXeeSRt9,are you all releasing an update or something to address this glitch?,Here’s what you can do to work around the issue until it’s fixed in a future software update:,how_to_info_request,how_to_info_request,partial,escalate,,"We’re on it! In the meantime, the quickest way to see if the issue is resolved is to make sure your device is running the latest iOS version.
+
+1. **Back up** your iPhone/iPad (iCloud or iTunes/Finder).  
+2. Go to **Settings > General > Software Update** and install any available update.  
+3. Restart your device and let us know if the glitch still appears.
+
+Could you also tell us a bit more about what’s happening—e.g., which app or feature is glitching, and what device/iOS version you’re using? That’ll help us pinpoint the problem and get you a fix as soon as possible."
+1009095,"Just updated my Music Library and music app is crashing when opening it, why? @115858",1009093,@358781 We'd like to help you get the Music app working as expected. Could you tell us which device and system you're having this issue on?,"Just updated my Music Library and music app is crashing when opening it, why?",We'd like to help you get the Music app working as expected. Could you tell us which device and system you're having this issue on?,bug_performance_issue,bug_performance_issue,partial,escalate,,"Thanks for reaching out. Let’s get your Music app back up and running.
+
+1. **Is the Music app up to date?**  
+   - Open **Settings > General > Software Update** and make sure your device is running the latest iOS version.  
+   - If an update is available, install it and then try opening the Music app again.
+
+2. **What type of library did you update?**  
+   - Are you an Apple Music subscriber, or did you sync music through iTunes (or Finder on macOS)?  
+   - Knowing this helps us pinpoint whether the crash is related to a subscription sync or a local library issue.
+
+3. **Quick troubleshooting steps**  
+   - **Restart your device** – a simple reboot often clears temporary glitches.  
+   - **Delete and reinstall the Music app** (press and hold the app icon, tap “Remove App” → “Delete App”, then reinstall from the App Store).  
+   - If you’re using iTunes/Finder sync, try syncing again after a fresh restart.
+
+4. **If the crash persists**  
+   - Let us know the iOS version you’re on (Settings > General > About → Software Version).  
+   - If you can, provide any error message or screenshot that appears when the app crashes.
+
+Once we have that info, we can dig deeper or suggest a more specific fix. Looking forward to getting your music back!"
+1701012,@AppleSupport get rid of this question box thing I keep seeing please!,1701010,@515785 We'd like to better understand what's happening to see how we can help. What exactly is happening and on which device model?,get rid of this question box thing I keep seeing please!,We'd like to better understand what's happening to see how we can help. What exactly is happening and on which device model?,how_to_info_request,how_to_info_request,partial,escalate,,"Here’s what you can do to work around the issue until it’s fixed in a future software update:
+
+1. **Check the Settings that control on‑screen help bubbles**  
+   * Open **Settings** → **General** → **About**.  
+   * If you see a toggle labeled **“Show Question Mark”** (or similar), turn it off.  
+
+2. **If the question box appears on the keyboard**  
+   * Go to **Settings** → **General** → **Keyboard**.  
+   * Disable **“Show Suggestions”** or **“Predictive”** – this removes the little question‑mark bubble that sometimes shows up.  
+
+3. **If it’s coming from a specific app**  
+   * Close the app completely (double‑tap the Home button or swipe up on the app preview) and reopen it.  
+   * If the bubble persists, try resetting that app’s settings: **Settings** → **[App name]** → **Reset** (or **Delete App** and reinstall).  
+
+4. **Restart your device**  
+   * A quick restart often clears temporary UI glitches that can cause stray question boxes.  
+
+If the question box keeps showing up after trying these steps, let us know the exact screen or app where it appears and we’ll dig deeper."
+2944552,@116333 @AppleSupport @156470 @140312 look what I found after opening my https://t.co/t6gMkFyqbE sent me a damaged unit and they don’t want to replace it as the technical service is not available in my country I’m really disappointed and I will never buy any Apple product https://t.co/aq2QCtEVxR,2944551,@813415 We'd love to help out with your new iPhone X. What country are you located in? Let us know in Direct Message and we'd be happy to assist. https://t.co/GDrqU22YpT,look what I found after opening my  sent me a damaged unit and they don’t want to replace it as the technical service is not available in my country I’m really disappointed and I will never buy any Apple product,We'd love to help out with your new iPhone X. What country are you located in? Let us know in Direct Message and we'd be happy to assist.,general_complaint,hardware_safety_issue,partial,escalate,,"I’m really sorry you’ve received a damaged unit and that you’re feeling let down.  
+We want to make this right for you.
+
+Could you please let me know:
+
+* The model and serial number of the device  
+* Where you purchased it (store or online)  
+* Your current address (so we can arrange shipping)
+
+Once I have that information, I’ll arrange a replacement or a refund for you and will ship the new unit directly to you—no need for a local service center.  
+
+Thank you for giving us the chance to fix this. We value your business and hope to restore your confidence in Apple."
+1023841,@AppleSupport the screen had the alarm screen showing with the options for cancel/snooze but that was it. Haven’t changed my alarm settings,1023840,@362282 Let's look into that. Send us a DM and we'll go from there. https://t.co/GDrqU22YpT,the screen had the alarm screen showing with the options for cancel/snooze but that was it. Haven’t changed my alarm settings,Let's look into that. Send us a DM and we'll go from there.,bug_performance_issue,bug_performance_issue,partial,escalate,,"Hi there,
+
+It sounds like the alarm is showing the cancel/snooze screen but isn’t actually ringing. Let’s make sure everything is set up correctly:
+
+1. **Check the alarm time** – Open the Clock app → Alarm → tap the alarm in question. Make sure the time is correct and the toggle is ON.  
+2. **Alarm sound** – In the same alarm settings, tap *Sound* and pick a tone. If it’s set to “None,” the alarm won’t play.  
+3. **Volume & Silent mode** – Ensure the ringer volume is up (use the side volume buttons) and that the side switch isn’t set to Silent.  
+4. **Focus/Do‑Not‑Disturb** – Go to *Settings* → *Focus* and confirm that no Focus mode is silencing alarms.  
+5. **Test the alarm** – Set a new alarm for a minute from now and see if it rings.
+
+If you’ve already checked these and it’s still not working, try deleting the alarm and creating a fresh one.
+
+You can also review the full troubleshooting steps in Apple’s “Get help with Alarms” article:  
+[https://support.apple.com/en-us/HT210386](https://support.apple.com/en-us/HT210386)
+
+Let us know if this resolves the issue or if you need any further assistance. Have a great day!"
+2080934,Note to self. My @115858 #AppleWatchSeries3 went Samsung galaxy on me and nearly exploded putting it into theater mode. Wow.,2080933,@615371 We want to help. DM us details and include the country you're in. We'll continue support with you there. https://t.co/GDrqU22YpT,Note to self. My  #AppleWatchSeries3 went Samsung galaxy on me and nearly exploded putting it into theater mode. Wow.,We want to help. DM us details and include the country you're in. We'll continue support with you there.,hardware_safety_issue,hardware_safety_issue,partial,escalate,,"We’re happy to help. Let’s try a few quick steps to get your Apple Watch Series 3 back to normal:
+
+1. **Restart the watch** – Press and hold the side button until the power‑off slider appears, then slide to power off. Wait a few seconds, then press and hold the side button again until the Apple logo shows.
+
+2. **Check for software updates** – Open the Watch app on your paired iPhone, tap General → Software Update. If an update is available, install it.
+
+3. **Reset theater mode** – On the watch, swipe up to open Control Center, tap the theater mode icon (the stage‑hand) to toggle it off, then toggle it back on.
+
+4. **Factory reset (if needed)** – If the watch still behaves oddly, back up your data in the Watch app, then go to General → Reset → Erase All Content and Settings. After the reset, set it up again from your backup.
+
+If the watch shows any physical damage (burn marks, swelling, or a strong odor), please stop using it immediately and bring it to an Apple Store or an authorized service provider for inspection. Safety is our top priority.
+
+Let us know how it goes or if you need further assistance!"
+2020527,@115858 why does this happen when you try typing the letter... I️. Fix it!,2020526,"@597537 Thanks for reaching out to us. Please check out this link for help with your issue: https://t.co/xU1AGHStV6
+Questions? DM us. https://t.co/GDrqU22YpT",why does this happen when you try typing the letter... I️. Fix it!,"Thanks for reaching out to us. Please check out this link for help with your issue: 
+Questions? DM us.",bug_performance_issue,bug_performance_issue,partial,escalate,,"Here’s what you can do to work around the issue until it’s fixed in a future software update:
+
+1. **Reset the keyboard dictionary**  
+   - Open **Settings** → **General** → **Keyboard**.  
+   - Tap **Reset Keyboard Dictionary** and confirm.  
+   This clears any corrupted entries that might be causing the “I️” glitch.
+
+2. **Disable predictive text**  
+   - In the same **Keyboard** menu, toggle **Predictive** off.  
+   - Re‑enable it after a few minutes to see if the problem persists.
+
+3. **Try a different keyboard layout**  
+   - Go to **Settings** → **General** → **Keyboard** → **Keyboards** → **Add New Keyboard…**  
+   - Add a standard **English (US)** keyboard (or another layout you prefer) and switch to it while typing.  
+   This can bypass any layout‑specific bugs.
+
+4. **Check for third‑party keyboards**  
+   - If you’re using a third‑party keyboard app, disable it temporarily to see if the issue disappears.  
+   - If it does, consider updating the app or switching to the built‑in keyboard.
+
+5. **Update iOS**  
+   - Make sure your device is running the latest iOS version: **Settings** → **General** → **Software Update**.  
+   - Apple often releases fixes for keyboard‑related bugs in new updates.
+
+6. **Restart your device**  
+   - A quick restart can clear temporary glitches that affect typing.
+
+If the problem continues after trying these steps, let us know the exact iOS version and the keyboard you’re using, and we’ll dig deeper. We appreciate your patience—this issue is on our radar and will be addressed in an upcoming software update."
+1698410,@AppleSupport Is Apple Care of $199 flat or excluding tax?,1698409,@282337 We'd like to help! Can you tell us the country that you are located in?,Is Apple Care of $199 flat or excluding tax?,We'd like to help! Can you tell us the country that you are located in?,how_to_info_request,how_to_info_request,partial,escalate,,"That’s a great question! The $199 is the base price for Apple Care +, and taxes are added on top of that amount based on your country or state. When you purchase, the final price—including any applicable sales tax—will be shown before you confirm the order. If you’d like a quick estimate for your specific region, just let me know where you’re located and I can give you the exact total."
+974478,I got a new iPhone and I turned my iCloud photos on to transfer them and my Live Photos got lost :( @AppleSupport,974477,@351092 We want to help. Let's meet in DM. https://t.co/GDrqU22YpT,I got a new iPhone and I turned my iCloud photos on to transfer them and my Live Photos got lost :(,We want to help. Let's meet in DM.,how_to_info_request,how_to_info_request,good,auto,,We’re sorry to hear that! Which iPhone model and iOS version are you running? Have you checked the Photos app or iCloud.com to see if the Live Photos are still there?
+2729008,@AppleSupport what’s with all the updates. Now I can’t even see what’s playing on the widget. Bring back my lock screen music display. 😭😭😭 https://t.co/dzUPqm71rM,2729007,@464945 We'd be happy to look into this with you more in detail.  Please reach out to us via DM and we'll get started. https://t.co/GDrqU22YpT,what’s with all the updates. Now I can’t even see what’s playing on the widget. Bring back my lock screen music display. 😭😭😭,We'd be happy to look into this with you more in detail.  Please reach out to us via DM and we'll get started.,bug_performance_issue,bug_performance_issue,partial,escalate,,"We’re sorry you’re having trouble with the lock‑screen widget.  
+Could you let us know:
+
+* Which iPhone model you’re using  
+* The current iOS version (you can find it in Settings → General → About)  
+
+Also, have you tried restarting the device or toggling the widget off‑on again? Once we have that info we can walk you through restoring the music display."
+2015958,@115858 see what I️ mean like wtf is that,2015957,@596144 Thanks for reaching out. We have a workaround for this here: https://t.co/xXaXeeSRt9 DM us if you still need help. https://t.co/GDrqU22YpT,see what I️ mean like wtf is that,Thanks for reaching out. We have a workaround for this here:  DM us if you still need help.,general_complaint,general_complaint,good,escalate,,"I’m sorry you’re seeing this.  
+Here’s what you can do to work around the issue until it’s fixed in a future software update:
+
+1. **Update to the latest iOS** – We just released iOS 16.5, which fixes a number of similar problems. If you haven’t updated yet, back up your device, then install the update and let us know if the behavior changes.  
+2. **Restart or reset** – If you’re already on the latest version, try restarting your device. If that doesn’t help, you can reset all settings (Settings → General → Transfer or Reset iPhone → Reset → Reset All Settings).  
+3. **Tell us more** – If the problem persists, could you describe what you’re seeing (e.g., error message, screen, behavior)? That will help us pinpoint the cause.
+
+Let me know how it goes or if you need any further assistance."
+2299235,Anyone else have the issue where you start typing a long text and your phone malfunctions and closes the message app mid text w/o saving your text? @AppleSupport #iOS11 SUCKS.,2299233,"@570024 Hey, we can work with you to see what's going on with the Messages app. First, can you tell us the exact iOS version installed? Also, does restarting your iPhone make a difference?",Anyone else have the issue where you start typing a long text and your phone malfunctions and closes the message app mid text w/o saving your text?  #iOS11 SUCKS.,"Hey, we can work with you to see what's going on with the Messages app. First, can you tell us the exact iOS version installed? Also, does restarting your iPhone make a difference?",bug_performance_issue,bug_performance_issue,good,auto,,"Hi there,
+
+We’re sorry to hear that Messages is crashing while you’re typing. Let’s get it back to working smoothly for you.
+
+**First, could you let us know:**
+
+- Which iPhone model you’re using  
+- The exact iOS version currently installed (you can find this in Settings > General > About)
+
+**In the meantime, here are a few quick steps that often resolve this issue:**
+
+1. **Update iOS** – If you’re on iOS 11.0 or 11.0.x, updating to the latest 11.1.1 (or later, if available) fixes a number of Messages‑crash bugs.  
+   *Settings > General > Software Update*  
+
+2. **Force‑quit and restart** – Double‑tap the Home button, swipe Messages off the screen, then relaunch it. If that doesn’t help, try a full device restart.  
+
+3. **Clear Messages cache** – Go to *Settings > Messages* and toggle *Send & Receive* off and back on. This can clear any corrupted drafts.  
+
+4. **Reset network settings** – Sometimes a network hiccup can cause the app to close unexpectedly.  
+   *Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings*  
+
+If you’re already on iOS 11.1.1 or newer and the problem persists, we can file a bug report with Apple so they can investigate further. In the meantime, you can also try using the web version of iMessage on iCloud.com as a temporary workaround.
+
+Here’s an Apple Support article that covers common Messages app crashes:  
+[https://support.apple.com/en-us/HTXXXX](https://support.apple.com/en-us/HTXXXX) *(replace HTXXXX with the actual article ID)*
+
+Let us know what you find out, and we’ll keep working on a permanent fix for you. Thanks for your patience!"
+2479108,"Okay, @115858 and @AppleSupport why does my phone change an “I️” to and “! A ?”
+#ICantReadHieroglyphics",2479107,"@708501 We recently released an iOS update, 11.1.1, that contains a fix for autocorrect issues. Let’s be sure to back up your device prior to updating. How to back up: https://t.co/4f8hwT5to6","Okay,  and  why does my phone change an “I️” to and “! A ?”
+#ICantReadHieroglyphics","We recently released an iOS update, 11.1.1, that contains a fix for autocorrect issues. Let’s be sure to back up your device prior to updating. How to back up:",how_to_info_request,bug_performance_issue,good,auto,,"Thanks for reaching out to us.  
+Try the steps in this article to correct your keyboard issue:
+
+1. **Open Settings** → **General** → **Keyboard**.  
+2. Toggle **Predictive** off, then back on.  
+3. Tap **Reset Keyboard Dictionary** to clear any corrupted entries.  
+4. If the problem continues, go to **Settings** → **General** → **Software Update** and install the latest iOS version.  
+
+If the “I” still changes to a different character after these steps, let us know and we’ll look into it further."
+1103739,"@AppleSupport It happens on all GPS centric apps:Apple Maps, Google Maps, and Waze.",1103740,@380456 Thanks for that info. Go ahead and reach out to us in DM &amp; we'll continue there. https://t.co/GDrqU22YpT,"It happens on all GPS centric apps:Apple Maps, Google Maps, and Waze.",Thanks for that info. Go ahead and reach out to us in DM &amp; we'll continue there.,bug_performance_issue,bug_performance_issue,partial,escalate,,"Thanks for the update. Let’s get a bit more detail so we can pinpoint the issue.
+
+1. Which iPhone/iPad model are you using, and what iOS version is installed?  
+2. Are you experiencing this on multiple devices, or just the one you mentioned?  
+3. Is the problem consistent on both Wi‑Fi and cellular data?  
+4. Have you noticed any error messages or a specific pattern (e.g., after a certain time of use, or only when the device is in motion)?
+
+Once we have that information, we can dig deeper and find a solution."
+1276380,@AppleSupport Probably since Feb.  You guys took me through steps including reloading my phone.  Problem still there.  Reading online it’s widespread.,1276382,@418767 Let's take a look at this further for you. Reach out to us in DM. https://t.co/GDrqU22YpT,Probably since Feb.  You guys took me through steps including reloading my phone.  Problem still there.  Reading online it’s widespread.,Let's take a look at this further for you. Reach out to us in DM.,bug_performance_issue,bug_performance_issue,partial,escalate,,"Here’s what you can do to work around the issue until it’s fixed in a future software update:
+
+1. **Check for the latest iOS update** – Go to Settings > General > Software Update. If a newer version is available, install it; many users have reported the problem disappears after the latest patch.
+
+2. **Reset network settings** – Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings. This clears any corrupted Wi‑Fi or cellular settings that might be causing the glitch.
+
+3. **Try a different app or browser** – If the problem occurs in a specific app (e.g., Safari, Mail, or a third‑party app), try using an alternative app or the app’s web‑based version to see if the issue persists.
+
+4. **Use a temporary workaround** – If the problem is related to a feature that can be disabled (e.g., “Hey Siri,” “Background App Refresh,” or a particular system setting), toggle it off until the update is released.
+
+5. **Create a new user profile** – If you’re on a shared device, log out of your Apple ID and log back in. This can sometimes clear cached data that’s causing the issue.
+
+---
+
+**Next steps for us**
+
+- Could you let me know what exact symptom you’re seeing (e.g., a crash, a specific error message, or a feature not working)?
+- Which iPhone model and iOS version are you on?
+- Have you noticed the issue in any particular app or only on the system itself?
+
+Once I have that information, I can open a priority support case for you and keep you updated on the progress of the fix. In the meantime, the steps above should help mitigate the problem."
+2474999,@115858 y’all need to fix my phone bc the update turned my iMessage off ORR you can run me a whole new phone for FREE,2474998,@707567 We can help! What's going on with your iMessage exactly? Send us a DM to get started. https://t.co/GDrqU22YpT,y’all need to fix my phone bc the update turned my iMessage off ORR you can run me a whole new phone for FREE,We can help! What's going on with your iMessage exactly? Send us a DM to get started.,bug_performance_issue,bug_performance_issue,partial,escalate,,"Hi there,
+
+We’re sorry to hear that the recent update has disabled iMessage on your device. We’d love to help you get it back up and running.
+
+Could you let us know:
+
+* What iPhone model you’re using  
+* The iOS version you’re currently on (you can find this in Settings > General > About > Version)  
+* Whether you can see iMessage in Settings > Messages, and if it’s toggled off or you’re getting an error when you try to enable it  
+* Any other changes or issues you’ve noticed since the update  
+
+Once we have those details, we can walk you through the steps to re‑enable iMessage (or troubleshoot any related problems).  
+
+Thanks for reaching out – we’re here to help!"
+1905741,"@115858 @AppleSupport honestly don’t use anymore. then finally, FINALLY i have access to my phone. just to see bluetooth automatically turned on for no reason?",1905740,"@567879 Thanks for reaching out. We're happy to help. Please, send us a DM to start: https://t.co/GDrqU22YpT","honestly don’t use anymore. then finally, FINALLY i have access to my phone. just to see bluetooth automatically turned on for no reason?","Thanks for reaching out. We're happy to help. Please, send us a DM to start:",bug_performance_issue,bug_performance_issue,partial,escalate,,"Thanks for reaching out.  
+Bluetooth can turn on automatically for features like AirDrop, Handoff, or Find My iPhone. If you don’t use it, you can disable it in a few taps:
+
+1. **Settings** → **Bluetooth** – toggle the switch off.  
+2. Or swipe up (or down‑right on newer models) to open **Control Center** and tap the Bluetooth icon until it turns gray.
+
+In iOS 11 the Control‑Center button was updated, so you’ll see the new icon there.  
+
+If you’d like, I can walk you through turning it off permanently or help you check which services might be keeping it on. Just let me know!"
+2607514,@AppleSupport Hopefully I won’t see the “Snapchat-Yellow Screen of Death” in the future. Thanks for the quick reply 👍,2607515,"@737620 If you do, please feel free to send us a DM and we can continue looking into the matter from there. https://t.co/GDrqU22YpT",Hopefully I won’t see the “Snapchat-Yellow Screen of Death” in the future. Thanks for the quick reply 👍,"If you do, please feel free to send us a DM and we can continue looking into the matter from there.",bug_performance_issue,general_complaint,partial,escalate,,"Hi there!  
+I’m glad we could help you get past the Snapchat‑Yellow Screen of Death. Here’s what you can do to keep it from popping up again until a future update fixes the issue:
+
+**Quick work‑arounds**
+
+1. **Restart Snapchat**  
+   - Swipe up from the bottom of the screen (or double‑tap the Home button on older models) to open the app switcher.  
+   - Swipe Snapchat off the screen, then relaunch it.
+
+2. **Clear the app’s cache**  
+   - Go to **Settings > General > iPhone Storage**.  
+   - Find Snapchat, tap it, then choose **Offload App** (this removes data but keeps the app).  
+   - Re‑install Snapchat from the App Store.
+
+3. **Check for updates**  
+   - Make sure both iOS and Snapchat are on the latest version.  
+   - Go to **Settings > General > Software Update** and **App Store > Updates**.
+
+4. **Reset network settings** (if the problem seems network‑related)  
+   - **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings**.  
+   - Note: you’ll need to re‑enter Wi‑Fi passwords afterward.
+
+5. **Report the bug** (so Apple can investigate)  
+   - In Snapchat, tap **Profile > Settings > Help > Report a Problem** and describe the Yellow Screen of Death.
+
+If you notice the screen again or run into any other hiccups, just let me know. I’m happy to dig deeper or help you with any other apps that might be acting up.  
+
+Thanks for staying patient, and enjoy your snaps!"
+2110842,Umm @115858 you lil stinking update didn’t work at all . See this I.T,2110841,@290111 We'd like to look into that with you. Could you Direct Message us and let us now what iOS version you're on? https://t.co/GDrqU22YpT,Umm  you lil stinking update didn’t work at all . See this I.T,We'd like to look into that with you. Could you Direct Message us and let us now what iOS version you're on?,bug_performance_issue,bug_performance_issue,partial,escalate,,"Hi there,
+
+I’m sorry to hear the update didn’t resolve the issue. Let’s get a bit more information so we can help you quickly.
+
+1. **What iOS version are you running?**  
+   Open **Settings > General > About** and note the “Version” number (e.g., 15.7.1).  
+   If you can, paste that number in your reply.
+
+2. **What exactly is happening?**  
+   If you’re seeing an error message or a specific symptom, a short description or a screenshot would be very helpful.
+
+3. **Quick workaround (if you’re comfortable trying it):**  
+   - **Restart your device** – this can clear temporary glitches.  
+   - **Check for a newer update** – go to **Settings > General > Software Update** and install any available patch.  
+   - **Reset network settings** (if the issue involves Wi‑Fi or cellular) – go to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings**.
+
+Once we have the iOS version and a bit more detail, we can determine whether this is a known issue and guide you through a more specific fix.
+
+Thanks for your patience, and I look forward to your reply!"
+848449,"iOS 11 est effectivement une mise à jour bien ratée... -50% de batterie iPhone depuis ce matin, en faible activité 🙄 @AppleSupport",848448,@321631 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj,"iOS 11 est effectivement une mise à jour bien ratée... -50% de batterie iPhone depuis ce matin, en faible activité 🙄",We offer support via Twitter in English. Contact us for help in your preferred language here:,bug_performance_issue,bug_performance_issue,partial,escalate,,We offer support via Twitter in English. Contact us for help in your preferred language here:
+2439712,Hey @AppleSupport - when is the keyboard glitch in my iOS going to be fixed. #lame https://t.co/49bLGbQJsR,2439711,@334173 We want to help. You may need to backup and update to iOS 11.1.1 on your device. Take a look at this article for help with these steps: https://t.co/ahjigcvFRG,Hey  - when is the keyboard glitch in my iOS going to be fixed. #lame,We want to help. You may need to backup and update to iOS 11.1.1 on your device. Take a look at this article for help with these steps:,bug_performance_issue,bug_performance_issue,good,auto,,"Hi there,
+
+I’m sorry you’re running into that keyboard glitch. We’re actively working on a fix that will land in an upcoming iOS update, but in the meantime here’s what you can do to keep things running smoothly:
+
+1. **Reset the keyboard dictionary** – Go to Settings → General → Keyboard → Reset Keyboard Dictionary.  
+2. **Check for the latest iOS** – If you’re not already on the newest release, updating can sometimes resolve the issue.  
+3. **Restart your device** – A quick reboot often clears temporary glitches.
+
+If you can let me know which iOS version you’re on and a bit more about what happens when the glitch occurs (e.g., does it happen on all keyboards, only certain apps, etc.), I can offer more targeted advice or check if the issue is already known in the current release.
+
+Thanks for your patience—let me know how it goes!"

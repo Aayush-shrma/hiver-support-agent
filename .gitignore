@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# Virtual environment
+venv/
+
+# Raw dataset (too large for git, and not yours to redistribute)
+twcs/
+sample.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
